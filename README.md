@@ -1,4 +1,4 @@
 Collaborators:
-{Emir Kugic}
+Emir Kugic
 Lejla Muratovic
 Emir Kugic
